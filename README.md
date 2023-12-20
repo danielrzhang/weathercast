@@ -18,6 +18,6 @@ Weathercast is a lightweight weather application that allows users to check the 
 
     `cd weathercast`
 
-3. Replace the API key in the `api-key.js` file with your own API key from [OpenWeatherMap API](https://openweathermap.org/).
+3. Paste your own API key into the `api-key.js` file from [OpenWeatherMap API](https://openweathermap.org/).
 
 4. Deploy the app to your preferred hosting platform, or use GitHub Pages for quick deployment.
