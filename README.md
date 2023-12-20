@@ -1,6 +1,8 @@
 # weathercast
 Weathercast is a lightweight weather application that allows users to check the current weather information for a specific location. It provides real-time weather data, including temperature, humidity, wind speed, and weather conditions. The app utilizes the [OpenWeatherMap API](https://openweathermap.org/) to fetch weather data.
 
+[Try it out here!](https://danielrzhang-weathercast.netlify.app/)
+
 ![](/readme-images/display.png)
 
 ## Features
